@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* .welcome {
+    position: relative;
+    animation: fadein 2s ease-in-out;
+}
+
+@keyframes fadein {
+    0% {
+        top: -100%;
+        opacity: 0;
+        transform: translateY(-100%);
+    }
+
+    100% {
+        top: 0%;
+        opacity: 1;
+        transform: translateY(0%);
+    }
+} */
+  
